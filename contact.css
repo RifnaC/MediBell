@@ -51,7 +51,7 @@ body{
 }
 .content .left-side .details i{
   font-size: 30px;
-  color: #3e2093;
+  color: #3a78ba;
   margin-bottom: 10px;
 }
 .content .left-side .details .topic{
@@ -71,7 +71,7 @@ body{
   padding: 55px;
   font-size: 23px;
   font-weight: 600;
-  color: #3e2093;
+  color: #3a78ba;
 }
 form{
   padding-top: 25px;
@@ -111,12 +111,12 @@ form{
   padding: 10px 20px;
   bottom: 10px;
   border-radius: 6px;
-  background: #3e2093;
+  background: #3a78ba;
   cursor: pointer;
   transition: all 0.3s ease;
 }
 .button input[type="button"]:hover{
-  background: #4f2ab38e;
+  background: #3a78ba;
 }
 
 @media (max-width: 950px) {

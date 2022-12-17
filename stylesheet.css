@@ -7,7 +7,6 @@
     width: 100%;
     background-image: linear-gradient( to bottom right, #1C315E, #C0DEFF, #3a78ba);
     background-position: center;
-    background-image: doctor;
     background-size:cover;
     height: 100vh;
 }
@@ -16,6 +15,7 @@
     width: 1200px;
     height: 75px;
     margin: auto;
+    padding-top: 5px;
 }
 
 .icon{
@@ -38,6 +38,7 @@
     width: 400px;
     float: left;
     height: 70px;
+    margin-left: 70px;
 }
 
 ul{
@@ -49,9 +50,9 @@ ul{
 
 ul li{
     list-style: none;
-    margin-left: 62px;
-    margin-top: 27px;
-    font-size: 14px;
+    margin-left: 60px;
+    margin-top: 30px;
+    font-size: 20px;
 }
 
 ul li a{
@@ -69,7 +70,7 @@ ul li a:hover{
 .search{
     width: 330px;
     float: left;
-    margin-left: 270px;
+    margin-left: 220px;
 }
 
 .srch{
@@ -114,32 +115,36 @@ ul li a:hover{
 }
 
 .content{
-    width: 1200px;
-    height: auto;
-    margin: auto;
+    width: 50%;
+    margin: 10px;
+    padding-left: 75px;
     color: #fff;
     position: relative;
 }
-
-.content .par{
-    padding-left: 20px;
-    padding-bottom: 25px;
-    font-family: Arial;
-    letter-spacing: 1.2px;
-    line-height: 30px;
-}
-
 .content h1{
     font-family: 'Times New Roman';
     font-size: 50px;
     padding-left: 20px;
     margin-top: 9%;
+    padding-top: 20px;
     letter-spacing: 2px;
+    line-height: 8rem;
+}
+.content p{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 25px;
+    word-wrap: break-word;
+    word-break: keep-all;
+    word-spacing: .4rem;
 }
 
 .content .cn{
     width: 160px;
     height: 40px;
+    margin-top: 30px;
     background: #3ab4f2;
     border: none;
     margin-bottom: 10px;
@@ -179,15 +184,15 @@ ul li a:hover{
 }
 
 .form h2{
-    width: 220px;
+    width: 270px;
     font-family: sans-serif;
     text-align: center;
     color: #3ab4f2;
     font-size: 22px;
-    background-color: #fff;
+    background-color: inear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     border-radius: 10px;
-    margin: 2px;
-    padding: 8px;
+    margin-left: -20px;
+    padding: 3px;
 }
 
 .form input{
@@ -215,11 +220,13 @@ ul li a:hover{
 }
 
 .btnn{
-    width: 240px;
+    width: 80px;
     height: 40px;
     background: #4ea0c9;
     border: none;
     margin-top: 30px;
+    margin-left: 80px;
+    bottom: 180px;
     font-size: 18px;
     border-radius: 10px;
     cursor: pointer;
