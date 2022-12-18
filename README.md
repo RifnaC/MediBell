@@ -1,6 +1,6 @@
-{PROJECT NAME} - MEDI-BELL
+##{PROJECT NAME} - MEDI-BELL
 
-TEAM MEMBERS:
+##TEAM MEMBERS:
 
 1. Rifna C
 
@@ -46,4 +46,17 @@ HOW TO RUN ?
 5. User can go through the website to know more about the health care clinic.
 
 ![](https://drive.google.com/uc?export=view&id=1yR5HUBxNVkK2kK4nhHFh0N-qa1G4V6-8)
-![](https://drive.google.com/uc?export=view&id=1EPMUfA5eRT9sXPeHUrJBTyDRRdw5NKwO/view?usp=sharing)
+![](https://drive.google.com/uc?export=view&id=1EPMUfA5eRT9sXPeHUrJBTyDRRdw5NKwO)
+![](https://drive.google.com/uc?export=view&id=1XVWjD9UvO-pktEA7FsUUKGvZgWBvmURN)
+![](https://drive.google.com/uc?export=view&id=1t4ZSolQeNYF0u56JuIt2es9WR0T9cyJ )
+![](https://drive.google.com/uc?export=view&id=183CKjDyMRS5-0tIfdw90foEdAHzndogl)
+![](https://drive.google.com/uc?export=view&id=13McuDSeRTGCl-DXxuvBQ5MTfop8pwitG)
+![](https://drive.google.com/uc?export=view&id=1QTiPo9qlCryV0hcUTMFJ2fH8XR4nuxQ0)
+![](https://drive.google.com/uc?export=view&id=1A3_F1lucgaJT2VTaqLkvPT9HFqj-Ddys)
+![](https://drive.google.com/uc?export=view&id=1s9oU8RwMdCZS0LeqQTUXKt6E2IUILSHO)
+![](https://drive.google.com/uc?export=view&id=1PRL6wSNgL-B43BYnlEl8v_T_Myci8crY)
+
+
+
+
+
