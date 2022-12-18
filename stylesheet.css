@@ -8,7 +8,7 @@
     background-image: linear-gradient( to bottom right, #1C315E, #C0DEFF, #3a78ba);
     background-position: center;
     background-size:cover;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .navbar{
@@ -144,7 +144,7 @@ ul li a:hover{
 .content .cn{
     width: 160px;
     height: 40px;
-    margin-top: 30px;
+    margin-top: 10px;
     background: #3ab4f2;
     border: none;
     margin-bottom: 10px;
@@ -256,13 +256,18 @@ ul li a:hover{
     text-decoration: none;
     color: #fff;
 }
-.icons ion-icon{
-    color: #fff;
-    font-size: 30px;
-    padding-left: 14px;
-    padding-top: 5px;
-    transition: 0.3s ease;
+.details{
+    margin: 0px 90px;
+    padding-top: 170px;
+    padding-bottom: 80px;
 }
-.icons ion-icon:hover{
-    color: #59d25d;
+.details h1{
+   color: #fdfdfd;
+   margin-top: 10px;
+   padding-top: 20px;
+   padding-bottom: 50px;
+}
+.details p{
+    font-size: 20px;
+    line-height: 2rem;
 }

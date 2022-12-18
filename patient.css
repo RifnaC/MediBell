@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    background-image: linear-gradient( to bottom right, #112244, #c6d4e4, #5f95ce);
+    min-height: 100vh;
+    width: 100%;
+}
+.heading h1{
+    color: #112244;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.table th, .table tr, .table td{
+    padding: 10px;
+    text-align: center;
+}
+.table tr:hover{
+    background-color: #96abb9;
+}
+.table table{
+    margin: auto;
+    width: 90%;
+    border-collapse: collapse;
+    border: 1px solid #01162e;
+}
+.table th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #96abb9;
+    color: white;
+}

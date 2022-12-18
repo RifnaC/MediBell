@@ -56,6 +56,10 @@ p {
   place-items: center;
   transition: 0.5s;
 }
+a{
+  text-decoration: none;
+  color: #ffffff;
+}
 .card:hover {
   background-position: 0 100%;
 }
@@ -68,6 +72,9 @@ p {
 }
 .card:hover p {
   color: #f0f0f0;
+}
+.card:hover a{
+  color: #2c7bfe;
 }
 @media screen and (min-width: 768px) {
   section {
