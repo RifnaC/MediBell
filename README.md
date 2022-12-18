@@ -46,3 +46,4 @@ HOW TO RUN ?
 5. User can go through the website to know more about the health care clinic.
 
 ![](https://drive.google.com/uc?export=view&id=1yR5HUBxNVkK2kK4nhHFh0N-qa1G4V6-8)
+![](https://drive.google.com/uc?export=view&id=1EPMUfA5eRT9sXPeHUrJBTyDRRdw5NKwO/view?usp=sharing)
